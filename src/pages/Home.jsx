@@ -13,7 +13,7 @@ function Home(){
                 </h2>
                 <div className="prompt">
                     <p>
-                        A software developer with a passion for learning and creating.
+                        Desarrollador Web 
                     </p>
                     <FaLinkedin/>
                     <FaGithub/>
@@ -21,26 +21,27 @@ function Home(){
                 </div>
             </div>
             <div className="skills">
-                <h1>Skills</h1>
+                <h1>Habilidades</h1>
                 <ol className='list'>
                     <li className="item">
                         <h2>Front-End</h2>
                         <span>
-                            React JS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM, 
-                            Ionic, Bootstrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+                            React JS, HTML, CSS 
+                            Bootstrap, TailwindCSS, StyledComponents
                         </span>
                     </li>
                     <li className="item">
                         <h2>Back-End</h2>
                         <span>
-                            NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
-                            MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
+                            Flask, Django, Node.js, MySQL-MariaDB, PostgreSQL, 
+                            SQLAlchemy, AWS Beanstalk, AWS S3, Heroku, DigitalOcean,
+                            Bash, RESTful API, Wordpress
                         </span>
                     </li>
                     <li className="item">
-                        <h2>Languages</h2>
+                        <h2>Languajes</h2>
                         <span>
-                            JavaScript, Java, Python, C#, C, C++, TypeScript, Go
+                            Python, JavaScript, C/C++, Latex, Java
                         </span>
                     </li>
                 </ol>
